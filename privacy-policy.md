@@ -5,7 +5,7 @@ title: Politique de confidentialité — SunSnap
 
 # Politique de confidentialité — SunSnap
 
-*Dernière mise à jour : 19 octobre 2026* · [English version below](#english)
+*Dernière mise à jour : 30 octobre 2026* · [English version below](#english)
 
 SunSnap est une application d'appareil photo jetable : tu prends une pellicule de photos, puis tu les fais « développer », seul ou à plusieurs. Elle est éditée par **MH Studio Europe**, responsable du traitement des données décrites ici.
 
@@ -32,11 +32,13 @@ Quand tu crées ou rejoins une pellicule partagée, l'application t'informe et t
 - **le prénom** que tu choisis, visible des membres de la pellicule ;
 - **les photos que tu prends dans cette pellicule**, réduites à 1600 pixels, avec leur heure de prise et l'usage du flash ;
 - **ta participation** à la pellicule (date d'arrivée, départ, retrait par le créateur) ;
-- **les signalements** que tu fais sur une photo.
+- **les signalements** que tu fais sur une photo ou son auteur.
 
 **Qui voit quoi :** seuls les membres d'une pellicule voient ses photos et les prénoms de ses membres. Personne d'autre, ni dans l'application ni en ligne. Nous pouvons consulter une photo signalée pour la modérer.
 
 **Hébergement :** ces données sont hébergées par **Supabase** (base de données et stockage), sur des serveurs situés dans l'Union européenne (Irlande). Les échanges sont chiffrés (HTTPS).
+
+**Modération :** quand une photo est signalée, nous recevons une alerte dans notre outil de suivi, **GitHub** (États-Unis, transfert encadré par les clauses contractuelles de GitHub). Elle contient un lien vers la photo, valable 30 jours au plus, et des identifiants techniques (photo, pellicule, membre). Elle ne contient ni prénom ni nom de pellicule, et le lien ne fonctionne plus une fois la pellicule effacée.
 
 **Durée de conservation :**
 - les photos, les membres et les signalements d'une pellicule sont **effacés automatiquement 30 jours après son développement**, ou **90 jours après sa création** si elle n'a jamais été développée ;
@@ -45,7 +47,7 @@ Quand tu crées ou rejoins une pellicule partagée, l'application t'informe et t
 
 **Base légale :** l'exécution du service que tu demandes (partager une pellicule avec tes amis) et, pour les signalements, notre intérêt légitime à faire respecter les règles.
 
-**Règles :** pas de contenu choquant ou illégal, pas de photo de quelqu'un qui ne le souhaite pas. Une photo peut être signalée depuis la visionneuse, et le créateur d'une pellicule peut en retirer un membre. Une photo signalée est aussitôt masquée : elle disparaît de l'application de tous les membres. Les copies qu'un membre a déjà enregistrées dans la galerie de son téléphone ou partagées vers une autre application restent hors de notre contrôle. Nous pouvons supprimer une photo ou une pellicule qui ne respecte pas ces règles.
+**Règles :** pas de contenu choquant ou illégal, pas de photo de quelqu'un qui ne le souhaite pas. Une photo peut être signalée depuis la visionneuse, et le créateur d'une pellicule peut en retirer un membre. Une photo signalée est aussitôt masquée : elle disparaît de l'application de tous les membres dès que leur téléphone est connecté. Les copies qu'un membre a déjà enregistrées dans la galerie de son téléphone ou partagées vers une autre application restent hors de notre contrôle. Voir aussi les [conditions d'utilisation](terms). Nous pouvons supprimer une photo ou une pellicule qui ne respecte pas ces règles.
 
 ## Achats
 
@@ -86,7 +88,7 @@ Cette politique sera mise à jour avant tout nouveau type de collecte, et tu en 
 
 # Privacy policy — SunSnap (English)
 
-*Last updated: October 19, 2026*
+*Last updated: October 30, 2026*
 
 SunSnap is a disposable-camera app: you shoot a roll of photos, then have them "developed", alone or with friends. It is published by **MH Studio Europe**, the controller of the data described here.
 
@@ -113,11 +115,13 @@ When you create or join a shared roll, the app informs you and asks you to accep
 - **the first name** you choose, visible to the roll's members;
 - **the photos you take on that roll**, downscaled to 1600 pixels, with their capture time and flash use;
 - **your membership** of the roll (join date, leaving, removal by the creator);
-- **the reports** you make on a photo.
+- **the reports** you make on a photo or its author.
 
 **Who sees what:** only a roll's members see its photos and its members' first names. Nobody else, in the app or online. We may look at a reported photo to moderate it.
 
 **Hosting:** this data is hosted by **Supabase** (database and storage), on servers located in the European Union (Ireland). Transfers are encrypted (HTTPS).
+
+**Moderation:** when a photo is reported, we receive an alert in our tracking tool, **GitHub** (United States, transfer covered by GitHub's contractual clauses). It contains a link to the photo, valid for up to 30 days, and technical identifiers (photo, roll, member). It contains no first name or roll name, and the link stops working once the roll is deleted.
 
 **Retention:**
 - a roll's photos, members and reports are **automatically deleted 30 days after it is developed**, or **90 days after it was created** if it was never developed;
@@ -126,7 +130,7 @@ When you create or join a shared roll, the app informs you and asks you to accep
 
 **Legal basis:** performing the service you ask for (sharing a roll with your friends) and, for reports, our legitimate interest in enforcing the rules.
 
-**Rules:** no shocking or illegal content, no photos of people who don't want them. A photo can be reported from the viewer, and a roll's creator can remove a member. A reported photo is hidden right away: it disappears from the app for all members. Copies a member has already saved to their phone's gallery or shared to another app are beyond our control. We may delete a photo or roll that breaks these rules.
+**Rules:** no shocking or illegal content, no photos of people who don't want them. A photo can be reported from the viewer, and a roll's creator can remove a member. A reported photo is hidden right away: it disappears from the app for all members as soon as their phone is online. Copies a member has already saved to their phone's gallery or shared to another app are beyond our control. See also the [terms of use](terms). We may delete a photo or roll that breaks these rules.
 
 ## Purchases
 
