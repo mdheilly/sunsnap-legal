@@ -7,7 +7,7 @@ title: Politique de confidentialité — SunSnap
 
 *Dernière mise à jour : 30 octobre 2026* · [English version below](#english)
 
-SunSnap est une application d'appareil photo jetable : tu prends une pellicule de photos, puis tu les fais « développer », seul ou à plusieurs. Elle est éditée par **MH Studio Europe**, responsable du traitement des données décrites ici.
+SunSnap est une application d'appareil photo jetable : tu prends une pellicule de photos, puis tu les fais « développer », seul ou à plusieurs. Elle est éditée par **MH Studio Europe**, marque de **DATADVISOR**, SASU au capital de 1 000 €, SIREN 948 167 416, 138 avenue Victor Hugo, 75016 Paris, responsable du traitement des données décrites ici.
 
 ## En bref
 
@@ -51,7 +51,7 @@ Quand tu crées ou rejoins une pellicule partagée, l'application t'informe et t
 
 ## Achats
 
-La version Pro et les pellicules à l'unité sont payées via **Google Play**. Nous ne voyons jamais tes coordonnées bancaires. Pour vérifier et restaurer tes achats, l'application utilise **RevenueCat**, qui reçoit un identifiant d'achat anonyme et l'historique de tes achats SunSnap ([politique de RevenueCat](https://www.revenuecat.com/privacy)).
+La version Pro et les pellicules à l'unité sont payées via **Google Play**. Nous ne voyons jamais tes coordonnées bancaires. Pour vérifier et restaurer tes achats, l'application utilise **RevenueCat** (États-Unis, transfert encadré par les clauses contractuelles de RevenueCat), qui reçoit un identifiant d'achat anonyme et l'historique de tes achats SunSnap ([politique de RevenueCat](https://www.revenuecat.com/privacy)).
 
 ## Partage vers d'autres applications
 
@@ -90,7 +90,7 @@ Cette politique sera mise à jour avant tout nouveau type de collecte, et tu en 
 
 *Last updated: October 30, 2026*
 
-SunSnap is a disposable-camera app: you shoot a roll of photos, then have them "developed", alone or with friends. It is published by **MH Studio Europe**, the controller of the data described here.
+SunSnap is a disposable-camera app: you shoot a roll of photos, then have them "developed", alone or with friends. It is published by **MH Studio Europe**, a brand of **DATADVISOR**, a French SASU with share capital of €1,000, SIREN 948 167 416, 138 avenue Victor Hugo, 75016 Paris, the controller of the data described here.
 
 ## In short
 
@@ -134,7 +134,7 @@ When you create or join a shared roll, the app informs you and asks you to accep
 
 ## Purchases
 
-The Pro version and single rolls are paid through **Google Play**. We never see your payment details. To check and restore your purchases, the app uses **RevenueCat**, which receives an anonymous purchase identifier and your SunSnap purchase history ([RevenueCat's policy](https://www.revenuecat.com/privacy)).
+The Pro version and single rolls are paid through **Google Play**. We never see your payment details. To check and restore your purchases, the app uses **RevenueCat** (United States, transfer covered by RevenueCat's contractual clauses), which receives an anonymous purchase identifier and your SunSnap purchase history ([RevenueCat's policy](https://www.revenuecat.com/privacy)).
 
 ## Sharing to other apps
 

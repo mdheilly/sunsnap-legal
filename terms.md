@@ -7,7 +7,7 @@ title: Conditions d'utilisation — SunSnap
 
 *Dernière mise à jour : 30 octobre 2026* · [English version below](#english)
 
-SunSnap est éditée par **MH Studio Europe**. Ces conditions s'appliquent aux pellicules partagées : tu les acceptes avant d'en créer ou d'en rejoindre une. Tu dois avoir au moins 13 ans.
+SunSnap est éditée par **MH Studio Europe**, marque de **DATADVISOR**, SASU au capital de 1 000 €, SIREN 948 167 416, 138 avenue Victor Hugo, 75016 Paris. Ces conditions s'appliquent aux pellicules partagées : tu les acceptes avant d'en créer ou d'en rejoindre une. Tu dois avoir au moins 13 ans.
 
 ## Contenus et comportements interdits
 
@@ -54,7 +54,7 @@ Tes photos restent les tiennes. Tu autorises SunSnap à les héberger et à les 
 
 *Last updated: October 30, 2026*
 
-SunSnap is published by **MH Studio Europe**. These terms apply to shared rolls: you accept them before creating or joining one. You must be at least 13 years old.
+SunSnap is published by **MH Studio Europe**, a brand of **DATADVISOR**, a French SASU with share capital of €1,000, SIREN 948 167 416, 138 avenue Victor Hugo, 75016 Paris. These terms apply to shared rolls: you accept them before creating or joining one. You must be at least 13 years old.
 
 ## Prohibited content and behavior
 
